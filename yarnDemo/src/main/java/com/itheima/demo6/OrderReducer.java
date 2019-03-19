@@ -1,6 +1,5 @@
 package com.itheima.demo6;
 
-import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
