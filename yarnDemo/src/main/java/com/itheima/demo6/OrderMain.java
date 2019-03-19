@@ -40,6 +40,7 @@ public class OrderMain extends Configured implements Tool {
         job.setOutputKeyClass(OrderBean.class);
         job.setOutputValueClass(Text.class);
 
+
         //第八步：输出
         job.setOutputFormatClass(TextOutputFormat.class);
         TextOutputFormat.setOutputPath(job,new Path("file:///F:\\每日资料\\hadoop\\Hadoop课程资料\\5、大数据离线第五天\\自定义groupingComparator\\output"));
