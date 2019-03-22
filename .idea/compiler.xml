@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hdfsDemo" />
+        <module name="hiveDemo" />
         <module name="mapreduceDemo" />
         <module name="yarnDemo" />
         <module name="zookeeperDemo" />
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="bigdata" target="1.5" />
       <module name="hdfsDemo" target="1.8" />
+      <module name="hiveDemo" target="1.8" />
       <module name="mapreduceDemo" target="1.8" />
       <module name="yarnDemo" target="1.8" />
       <module name="zookeeperDemo" target="1.8" />

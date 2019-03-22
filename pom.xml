@@ -13,6 +13,7 @@
         <module>hdfsDemo</module>
         <module>mapreduceDemo</module>
         <module>yarnDemo</module>
+        <module>hiveDemo</module>
     </modules>
 
 
