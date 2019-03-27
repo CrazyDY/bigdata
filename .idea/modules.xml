@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/hdfsDemo/hdfsDemo.iml" filepath="$PROJECT_DIR$/hdfsDemo/hdfsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/hiveDemo/hiveDemo.iml" filepath="$PROJECT_DIR$/hiveDemo/hiveDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapreduceDemo/mapreduceDemo.iml" filepath="$PROJECT_DIR$/mapreduceDemo/mapreduceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblogparse/weblogparse.iml" filepath="$PROJECT_DIR$/weblogparse/weblogparse.iml" />
       <module fileurl="file://$PROJECT_DIR$/yarnDemo/yarnDemo.iml" filepath="$PROJECT_DIR$/yarnDemo/yarnDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/zookeeperDemo/zookeeperDemo.iml" filepath="$PROJECT_DIR$/zookeeperDemo/zookeeperDemo.iml" />
     </modules>

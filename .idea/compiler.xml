@@ -9,6 +9,7 @@
         <module name="hdfsDemo" />
         <module name="hiveDemo" />
         <module name="mapreduceDemo" />
+        <module name="weblogparse" />
         <module name="yarnDemo" />
         <module name="zookeeperDemo" />
       </profile>
@@ -18,6 +19,7 @@
       <module name="hdfsDemo" target="1.8" />
       <module name="hiveDemo" target="1.8" />
       <module name="mapreduceDemo" target="1.8" />
+      <module name="weblogparse" target="1.8" />
       <module name="yarnDemo" target="1.8" />
       <module name="zookeeperDemo" target="1.8" />
     </bytecodeTargetLevel>
