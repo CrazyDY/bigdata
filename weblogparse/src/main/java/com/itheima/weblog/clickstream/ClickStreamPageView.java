@@ -61,8 +61,8 @@ public class ClickStreamPageView extends Configured implements Tool {
 
 		job.setInputFormatClass(TextInputFormat.class);
 		job.setOutputFormatClass(TextOutputFormat.class);
-		TextInputFormat.addInputPath(job,new Path("file:///F:\\传智播客大数据离线阶段课程资料\\8、大数据离线第八天\\日志文件数据\\weblogPreOut2"));
-		TextOutputFormat.setOutputPath(job,new Path("file:///F:\\传智播客大数据离线阶段课程资料\\8、大数据离线第八天\\日志文件数据\\pageViewOut2"));
+		TextInputFormat.addInputPath(job,new Path("file:///F:\\每日资料\\hadoop\\Hadoop课程资料\\8、大数据离线第八天与第九天\\日志文件数据\\weblogPreOut3"));
+		TextOutputFormat.setOutputPath(job,new Path("file:///F:\\每日资料\\hadoop\\Hadoop课程资料\\8、大数据离线第八天与第九天\\日志文件数据\\pageViewOut3"));
 
 		job.setJarByClass(ClickStreamPageView.class);
 		job.setMapperClass(ClickStreamMapper.class);

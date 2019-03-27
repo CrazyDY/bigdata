@@ -47,9 +47,9 @@ public class WeblogPreProcess extends Configured implements Tool {
 		job.setInputFormatClass(TextInputFormat.class);
 		job.setOutputFormatClass(TextOutputFormat.class);*/
 
-		FileInputFormat.addInputPath(job,new Path("file:///F:\\传智播客大数据离线阶段课程资料\\8、大数据离线第八天\\日志文件数据\\input"));
+		FileInputFormat.addInputPath(job,new Path("file:///F:\\每日资料\\hadoop\\Hadoop课程资料\\8、大数据离线第八天与第九天\\日志文件数据\\input"));
 		job.setInputFormatClass(TextInputFormat.class);
-		FileOutputFormat.setOutputPath(job,new Path("file:///F:\\传智播客大数据离线阶段课程资料\\8、大数据离线第八天\\日志文件数据\\weblogPreOut2"));
+		FileOutputFormat.setOutputPath(job,new Path("file:///F:\\每日资料\\hadoop\\Hadoop课程资料\\8、大数据离线第八天与第九天\\日志文件数据\\weblogPreOut3"));
 		job.setOutputFormatClass(TextOutputFormat.class);
 		job.setJarByClass(WeblogPreProcess.class);
 
