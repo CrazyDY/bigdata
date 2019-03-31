@@ -15,6 +15,7 @@
         <module>yarnDemo</module>
         <module>hiveDemo</module>
         <module>weblogparse</module>
+        <module>kafkademo</module>
     </modules>
 
 
