@@ -16,6 +16,7 @@
         <module>hiveDemo</module>
         <module>weblogparse</module>
         <module>kafkademo</module>
+        <module>movieyearcount</module>
     </modules>
 
 

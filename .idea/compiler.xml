@@ -10,6 +10,7 @@
         <module name="hiveDemo" />
         <module name="kafkademo" />
         <module name="mapreduceDemo" />
+        <module name="movieyearcount" />
         <module name="weblogparse" />
         <module name="yarnDemo" />
         <module name="zookeeperDemo" />
@@ -21,6 +22,7 @@
       <module name="hiveDemo" target="1.8" />
       <module name="kafkademo" target="1.5" />
       <module name="mapreduceDemo" target="1.8" />
+      <module name="movieyearcount" target="1.8" />
       <module name="weblogparse" target="1.8" />
       <module name="yarnDemo" target="1.8" />
       <module name="zookeeperDemo" target="1.8" />
